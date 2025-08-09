@@ -1,64 +1,129 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Clash of Legends 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Byte Me]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Finan Ibnu Thajudheen] - [SCMS school of Engineering and Technology]
+- Member 2: [Christopher Biju] - [SCMS school of Engineering and Technology]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+"Clash of Legends" aanu mone… oru game alle, ithu *kochayammayude* Asianet serialinte drama, *adi puli* action,um *meen polikka* style fight okke onnu cherthiya oru pottan mix aanu. Ivide physics *thallu paranja* poyittundu, jeyikkanulla pradhana kaaranam? Glory, pride,um oru *choodu beefum moonu porottayum*.
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Sometimes the battle crashes midway because the code tries to measure “legendary strength” in *parotta* units… but no official conversion rate between kilograms and porottas exists.
+
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Easy fix — appoint a *panchayat* of local tea shop uncles to finally set the “1 kg = 3.5 porotta” standard, with free *beef curry* samples for calibration. Battles resume only after unanimous burp approval.
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- JavaScript
+  TypeScript
+  
+- Next.js (React-based framework)
+
+- React
+  Tailwind CSS
+  Wikipedia API / wikipedia npm package (for fetching data)
+
+- Visual Studio Code (code editor)
+  GitHub (version control & repository hosting)
+  Vercel (deployment platform)
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Laptop or Desktop Computer
+Specifications:
+Processor: Intel i3 or higher (or equivalent AMD processor)
+Memory: Minimum 4GB RAM (8GB recommended)
+Storage: At least 500MB free space for project files and dependencies
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+# Install pnpm globally (if not installed)
+npm install -g pnpm
+
+# Install project dependencies
+pnpm install
 
 # Run
-[commands]
+pnpm dev
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 054907" src="https://github.com/user-attachments/assets/6777b810-bedb-47a9-baf8-38f422e29c4b" />
+This is a screenshot of the front page of the project
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 054928" src="https://github.com/user-attachments/assets/2d57bdb3-4cc2-4ee5-8477-0faf92d0ff98" />
+This is the screenshot of the page where we select our fighters and start their fight.
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 054951" src="https://github.com/user-attachments/assets/053d8868-f271-46ac-b9c7-d6b61137ab91" />
+This is the page where the final stats is been shown. Here the final winner is also displayed.
+
+
+# Diagrams Workflow
++-------------------------+
+|     User Interaction    |
+|  (Input, Globe, Random) |
++-----------+-------------+
+            |
+            v
++-------------------------+
+|     Data Fetching       |
+| (Wikipedia / Wikidata)  |
++-----------+-------------+
+            |
+            v
++-------------------------+
+| Data Processing & Stats |
+|  (Normalize & Adjust)   |
++-----------+-------------+
+            |
+            v
++-------------------------+
+|  AI Avatar Generation   |
+|  (3D & Animations)      |
++-----------+-------------+
+            |
+            v
++-------------------------+
+|      Visualization      |
+| (Radar Charts, Voice,   |
+|  Battle Intro, UI)      |
++-----------+-------------+
+            |
+            v
++-------------------------+
+|   Mode Toggle & Verdict |
+| (Realistic / Meme, Win) |
++-----------+-------------+
+            |
+            v
++-------------------------+
+|  Shareable Result Card  |
++-------------------------+
+            |
+            v
++-------------------------+
+|       User Shares       |
++-------------------------+
+
 
 For Hardware:
 
